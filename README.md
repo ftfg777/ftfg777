@@ -1,6 +1,8 @@
 # 💫 About Me:
 🌱 안녕하세요. 배우고 기여하고자 하는 개발자 정찬우입니다.<br>
-
+<a href="https://github.com/devxb/gitanimals">
+  <img src="https://render.gitanimals.org/lines/{ftfg777}?pet-id=1" width="1000" height="120"/>
+</a>
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/cxxn__woo)
