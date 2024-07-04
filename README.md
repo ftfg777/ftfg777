@@ -3,7 +3,9 @@
 <a href="https://github.com/devxb/gitanimals">
   <img src="https://render.gitanimals.org/lines/{ftfg777}?pet-id=1" width="1000" height="120"/>
 </a>
-
+<a href="https://github.com/devxb/gitanimals">
+  <img src="https://render.gitanimals.org/farms/{ftfg777}"/>
+</a>
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/cxxn__woo)
 [![Notion](https://img.shields.io/badge/Notion-%23000000.svg?&logo=notion&logoColor=white)](https://4245093.notion.site/Jeong-Chan-Woo-b399a60ad3e244059616eecc26f7b525)
