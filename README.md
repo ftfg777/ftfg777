@@ -22,7 +22,7 @@
 </a>
   
 <a href="https://github.com/ftfg777">
-  <img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ftfg777&layout=compact&theme=buefy&hide_border=false" />
+  <img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ftfg777&locale=kr&layout=compact&theme=buefy&hide_border=false" />
 </a> 
 
 
