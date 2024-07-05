@@ -1,6 +1,6 @@
 <div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=BDBDC8&height=150&section=header" />
+  
+![header](https://capsule-render.vercel.app/api?type=Venom&color=gradient&height=300&section=header&text=%20Hi!%20&fontSize=70)
 
 🌱 안녕하세요. 배우고 기여하고자 하는 개발자 정찬우입니다.<br>
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/cxxn__woo)
@@ -14,9 +14,15 @@
 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Gradle](https://img.shields.io/badge/Gradle-02303A.svg?style=for-the-badge&logo=Gradle&logoColor=white)
 
+<a href="https://github.com/ftfg777">
+  <img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api?username=ftfg777&locale=kr&show_icons=true&include_all_commits=true&theme=buefy&hide_border=false" alt="ftfg777's github stats" />
+</a>
   
-![](https://github-readme-stats.vercel.app/api?username=ftfg777&locale=kr&border=true&include_all_commits=false&count_private=false)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ftfg777&locale=kr&border=true&include_all_commits=false&count_private=false&layout=compact)
+<a href="https://github.com/ftfg777">
+  <img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ftfg777&layout=compact&theme=buefy&hide_border=false" />
+</a> 
+
+
 
 
 
