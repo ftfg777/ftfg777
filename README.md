@@ -1,7 +1,8 @@
 <div align="center">
-  
-![header](https://capsule-render.vercel.app/api?type=Venom&color=gradient&height=300&section=header&text=%20Hi!%20&fontSize=70)
 
+<a href="https://github.com/ftfg777">
+![header](https://capsule-render.vercel.app/api?type=Venom&color=gradient&height=300&section=header&text=%20Hi!%20&fontSize=70)
+</a>
 🌱 안녕하세요. 배우고 기여하고자 하는 개발자 정찬우입니다.<br>
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/cxxn__woo)
 <a href="https://github.com/devxb/gitanimals">
@@ -29,6 +30,6 @@
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=BDBDC8&height=150&section=footer" />
+
 
 </div>
