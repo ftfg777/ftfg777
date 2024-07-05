@@ -2,10 +2,10 @@
 # 💫 About Me:
 🌱 안녕하세요. 배우고 기여하고자 하는 개발자 정찬우입니다.<br>
 <a href="https://github.com/devxb/gitanimals">
-  <img src="https://render.gitanimals.org/lines/{ftfg777}?pet-id=596642696921905694" width="1000" height="120"/>
+  <img src="https://render.gitanimals.org/lines/{ftfg777}?contribution-view=false&pet-id=596642696921905694" width="1000" height="120"/>
 </a>
 <a href="https://github.com/devxb/gitanimals">
-  <img src="https://render.gitanimals.org/lines/{ftfg777}?pet-id=596642696921905695" width="1000" height="120"/>
+  <img src="https://render.gitanimals.org/lines/{ftfg777}?contribution-view=false&pet-id=596642696921905695" width="1000" height="120"/>
 </a>
   
 ## 🌐 Socials:
