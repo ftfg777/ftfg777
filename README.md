@@ -20,7 +20,6 @@
 <a href="https://github.com/ftfg777">
   <img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api?username=ftfg777&locale=kr&show_icons=true&include_all_commits=true&theme=buefy&hide_border=false" alt="ftfg777's github stats" />
 </a>
-  
 <a href="https://github.com/ftfg777">
   <img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ftfg777&locale=kr&layout=compact&theme=buefy&hide_border=false" />
 </a> 
