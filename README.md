@@ -2,7 +2,7 @@
 
 <a href="https://github.com/ftfg777">  
   
-  ![header](https://capsule-render.vercel.app/api?type=Venom&color=gradient&height=300&section=header&text=%20Hi!%20&fontSize=70)
+  ![header](https://capsule-render.vercel.app/api?type=Venom&color=gradient&height=300&section=header&text=%20Hi!%20&fontSize=60)
 </a>
 
 🌱 안녕하세요. 배우고 기여하고자 하는 개발자 정찬우입니다.<br>
