@@ -1,4 +1,3 @@
-<div align="center">
   
 # 💫 About Me:
 🌱 안녕하세요. 배우고 기여하고자 하는 개발자 정찬우입니다.<br>
@@ -6,9 +5,12 @@
   <img src="https://render.gitanimals.org/lines/{ftfg777}?pet-id=1" width="1000" height="120"/>
 </a>
 
+<div align="center">
 <a href="https://github.com/devxb/gitanimals">
   <img src="https://render.gitanimals.org/farms/{ftfg777}"/>
 </a>
+</div>
+  
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/cxxn__woo)
 [![Notion](https://img.shields.io/badge/Notion-%23000000.svg?&logo=notion&logoColor=white)](https://4245093.notion.site/Jeong-Chan-Woo-b399a60ad3e244059616eecc26f7b525)
@@ -27,4 +29,4 @@
 [![](https://visitcount.itsvg.in/api?id=ftfg777&icon=0&color=1)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-</div>
+
