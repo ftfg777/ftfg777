@@ -2,12 +2,11 @@
 
 <a href="https://github.com/ftfg777">  
   
-  ![header](https://capsule-render.vercel.app/api?type=Venom&color=gradient&height=300&section=header&text=%20Hi!%20&fontSize=60)
+  ![header](https://capsule-render.vercel.app/api?type=Venom&height=300&section=header&text=👋&fontSize=60&color=0:8871e5,100:b678c4&stroke=b678c4)
 </a>
 
-🌱 안녕하세요. 배우고 기여하고자 하는 개발자 정찬우입니다.<br>
+🌱 안녕하세요. 배우고 기여하고자 하는 개발자 정찬우입니다.
 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/cxxn__woo)
 <a href="https://github.com/devxb/gitanimals">
   <img src="https://render.gitanimals.org/lines/{ftfg777}?contribution-view=false&pet-id=596642696921905694" width="1000" height="120"/>
 </a>
