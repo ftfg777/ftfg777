@@ -2,10 +2,9 @@
 
 <a href="https://github.com/ftfg777">  
   
-  ![header](https://capsule-render.vercel.app/api?type=Venom&height=300&section=header&text=👋&fontSize=60&color=0:8871e5,100:b678c4&stroke=b678c4)
+  ![header](https://capsule-render.vercel.app/api?type=Waving&height=300&section=header&text=Welcome%20to%20ChanWoo%20GitHub%20👋&desc=안녕하세요%20배우고%20기여하고자%20하는%20개발자%20정찬우입니다.&fontSize=40&color=gradient)
 </a>
 
-🌱 안녕하세요. 배우고 기여하고자 하는 개발자 정찬우입니다.
 
 <a href="https://github.com/devxb/gitanimals">
   <img src="https://render.gitanimals.org/lines/{ftfg777}?contribution-view=false&pet-id=596642696921905694" width="1000" height="120"/>
