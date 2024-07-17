@@ -6,11 +6,11 @@
 </a>
 
 <a href="https://github.com/devxb/gitanimals">
-  <img src="https://render.gitanimals.org/lines/{ftfg777}?contribution-view=false&pet-id=596642696921905694" width="25%" height="120"/>
-  <img src="https://render.gitanimals.org/lines/{ftfg777}?contribution-view=false&pet-id=596642696921905695" width="25%" height="120"/>
-  <img src="https://render.gitanimals.org/lines/{ftfg777}?contribution-view=false&pet-id=599261676080416511" width="25%" height="120"/>
-  <img src="https://render.gitanimals.org/lines/{ftfg777}?contribution-view=false&pet-id=596985120651232329" width="25%" height="120"/>
-  <img src="https://render.gitanimals.org/lines/{ftfg777}?contribution-view=false&pet-id=600486861462786276" width="25%" height="120"/>
+  <img src="https://render.gitanimals.org/lines/{ftfg777}?contribution-view=false&pet-id=596642696921905694" width="20%" height="120"/>
+  <img src="https://render.gitanimals.org/lines/{ftfg777}?contribution-view=false&pet-id=596642696921905695" width="20%" height="120"/>
+  <img src="https://render.gitanimals.org/lines/{ftfg777}?contribution-view=false&pet-id=599261676080416511" width="20%" height="120"/>
+  <img src="https://render.gitanimals.org/lines/{ftfg777}?contribution-view=false&pet-id=596985120651232329" width="20%" height="120"/>
+  <img src="https://render.gitanimals.org/lines/{ftfg777}?contribution-view=false&pet-id=600486861462786276" width="20%" height="120"/>
 </a>
 
   
